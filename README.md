@@ -65,6 +65,8 @@ Okno LOGOWANIE- możliwość zalogowania się do aplikacji poprzez wpisanie e-ma
 
 
 Fragment kodu przedstawiający poprawność/niepoprawność zalogowania:
+![image](https://user-images.githubusercontent.com/85177651/120908220-4f0bbd80-c668-11eb-86b3-ff760362f0da.png)
+
 
 
 
@@ -79,6 +81,7 @@ Fragment kodu przedstawiający poprawność/niepoprawność zalogowania:
 
 
 Fragment kodu przedstawiający wymóg:
+![image](https://user-images.githubusercontent.com/85177651/120908224-5337db00-c668-11eb-9a16-f9ef2751d90a.png)
 
 
 
@@ -91,7 +94,8 @@ Fragment kodu przedstawiający wymóg:
 
 
 
-Fragment kodu pokazujący okno „Proszę czekać” wyświetlany po naciśnięciu przycisku „Zaloguj się”
+
+Fragment kodu pokazujący okno „Proszę czekać” wyświetlany po naciśnięciu przycisku „Zaloguj się”:
 private void Login(String email, String password) {
     progressDialog.setTitle("Proszę Czekać...");
     progressDialog.show();
@@ -106,12 +110,16 @@ private void Login(String email, String password) {
 
 
 
-                                           Okno REJESTRACJA- możliwość zarejestrowania konta poprzez wpisanie 
+ ![image](https://user-images.githubusercontent.com/85177651/120908230-664aab00-c668-11eb-86fe-8f07214b75c8.png)
+ Okno REJESTRACJA- możliwość zarejestrowania konta poprzez wpisanie 
  e-mail oraz hasła; możliwość zarejestrowania konta poprzez przycisk „zarejestruj się”; po zarejestrowaniu konta dane użytkownika przesyłane są do połączonej z nim bazy danych; możliwość ponownego przejścia do okna „Zaloguj się”
 
 Aplikacja sprawdza również czy dane użytkownika sa już wpisane w bazie danych za pomocą fragmentu kodu:
+![image](https://user-images.githubusercontent.com/85177651/120908232-6ea2e600-c668-11eb-8175-d52322dd6755.png)
+
 
  
+![image](https://user-images.githubusercontent.com/85177651/120908239-73679a00-c668-11eb-8dda-e728d6ca76f2.png)
  Okno DODAJ POST- możliwość wpisania tytułu publikowanego wpisu; możliwość dodania zdjęcia do publikowanego wpisu; możliwośc zapisania wpisu za pomocą przycisku załaduj (widoczny w kodzie ponieżej) 
 
 Fragment kodu przedstawiający wygląd okna:
@@ -198,7 +206,8 @@ private void uploadData(String title) {
 
 
 
-   Okno widoczne po zalogowaniu z rozwijanym menu- możliwość dodania wpisu; możliwość wylogowania się
+  ![image](https://user-images.githubusercontent.com/85177651/120908244-7f535c00-c668-11eb-8d77-17f1bcc360a0.png)
+ Okno widoczne po zalogowaniu z rozwijanym menu- możliwość dodania wpisu; możliwość wylogowania się
 
 
 
@@ -223,8 +232,13 @@ Fragment kodu pokazujący rozwijane  menu z kategoriami „Dodaj post” oraz �
 
 
 Wygląd bazy danych, do której przesyłane są dane nowo zarejestrowanych użytkowników:
+![image](https://user-images.githubusercontent.com/85177651/120908250-867a6a00-c668-11eb-870e-1705dcc1c8e4.png)
+
  
 
 
-Wygląd dodatkowych opcji możliwych do wykorzystania jako administrator bazy danych: usunięcie użytkownika, reset hasła, zablokowanie użytkownika, dodanie nowego użytkownika
+Wygląd dodatkowych opcji możliwych do wykorzystania jako administrator bazy danych: usunięcie użytkownika, reset hasła, zablokowanie użytkownika, dodanie nowego użytkownika:
+
+![image](https://user-images.githubusercontent.com/85177651/120908255-8da17800-c668-11eb-83cd-5af61648e1b5.png)
+
  
