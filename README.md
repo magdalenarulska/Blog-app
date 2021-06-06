@@ -3,16 +3,15 @@
 Dokumentacja
 
 1.	CHARAKTERYSTYKA
- Wizjonerzy- Magdalena Rulska, Marta Pietrzak, Szymon Musiołowski
+ Wizjonerzy- Magdalena Rulska, Marta Pietrzak, 
 a. Nazwa skrócona- Blog app
 b. Nazwa pełna- Aplikacja Android wykorzystująca Firebase
 c. Cele- nauka oraz poszerzenie wiedzy dotyczącej firebase w aplikacjach na platformę  Android; zagłębienie wiedzy dotyczącej programowania w języku Java w programie Android Studio, poszerzenie wiedzy dotyczącej działania programu Android Studio
 
 
 2.	PRAWA AUTORSKIE
-a)	Wizjonerzy- Magdalena Rulska, Marta Pietrzak, Szymon Musiołowski
-b)	Autorzy- Magdalena Rulska, Marta Pietrzak, Szymon Musiołowski
-
+a)	Wizjonerzy- Magdalena Rulska, Marta Pietrzak, 
+b)	Autorzy- Magdalena Rulska, Marta Pietrzak, 
 3.	SPECYFIKACJA WYMAGAŃ- Marta Pietrzak
 WYMAGANIA FUNKCJONALNE:
 •	Okno logowania- wymagane
